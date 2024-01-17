@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>#title#</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+
+  <body>
+    <div id="app">
+      <h1>#title#</h1>
+      <div>#content#</div>
+      <div> 
+      <img src="http://localhost:3000/download" Width+"500px" Height="500px"/>
+      </div>
+<a href="http://localhost:3000/download">
+<button>click here to download</button>
+</a>
+
+    </div>
+  </body>
+</html>
